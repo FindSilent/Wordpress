@@ -1,0 +1,1 @@
+Thư mục cho Plugins 
